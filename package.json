@@ -1,8 +1,8 @@
 {
     "name": "Mokaiterium-Launcher",
     "preductname": "Mokaiterium Launcher",
-    "version": "2.0.9",
-    "description": "Launcher Mincraft pour le serveur Mokaiterium",
+    "version": "2.0.10",
+    "description": "Launcher Minecraft pour le serveur Mokaiterium",
     "main": "src/app.js",
     "author": {
         "name": "WeezyBlue, nxyo, Luuxis",
