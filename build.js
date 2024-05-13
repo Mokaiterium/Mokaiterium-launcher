@@ -97,10 +97,10 @@ class Index {
                         target: "dmg",
                         arch: "universal"
                     },
-                    {
-                        target: "zip",
-                        arch: "universal"
-                    }]
+                        {
+                            target: "zip",
+                            arch: "universal"
+                        }]
                 },
                 linux: {
                     icon: "./app/assets/images/icon.png",
